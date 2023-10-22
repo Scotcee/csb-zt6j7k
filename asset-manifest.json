@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "https://scotcee.github.io/csb-zt6j7k/static/css/main.82f09535.chunk.css",
+    "main.js": "https://scotcee.github.io/csb-zt6j7k/static/js/main.04941441.chunk.js",
+    "main.js.map": "https://scotcee.github.io/csb-zt6j7k/static/js/main.04941441.chunk.js.map",
+    "runtime-main.js": "https://scotcee.github.io/csb-zt6j7k/static/js/runtime-main.ec9a3a49.js",
+    "runtime-main.js.map": "https://scotcee.github.io/csb-zt6j7k/static/js/runtime-main.ec9a3a49.js.map",
+    "static/js/2.e24396f1.chunk.js": "https://scotcee.github.io/csb-zt6j7k/static/js/2.e24396f1.chunk.js",
+    "static/js/2.e24396f1.chunk.js.map": "https://scotcee.github.io/csb-zt6j7k/static/js/2.e24396f1.chunk.js.map",
+    "index.html": "https://scotcee.github.io/csb-zt6j7k/index.html",
+    "static/css/main.82f09535.chunk.css.map": "https://scotcee.github.io/csb-zt6j7k/static/css/main.82f09535.chunk.css.map",
+    "static/js/2.e24396f1.chunk.js.LICENSE.txt": "https://scotcee.github.io/csb-zt6j7k/static/js/2.e24396f1.chunk.js.LICENSE.txt",
+    "static/media/404image.dbc8b56b.jpeg": "https://scotcee.github.io/csb-zt6j7k/static/media/404image.dbc8b56b.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec9a3a49.js",
+    "static/js/2.e24396f1.chunk.js",
+    "static/css/main.82f09535.chunk.css",
+    "static/js/main.04941441.chunk.js"
+  ]
+}
